@@ -1,3 +1,11 @@
+C8:
+Tạo và chuyển sang nhánh mới
+-> gộp dữ liệu từ nhánh feature_hieppt cho nhánh mới bằng rebase
+-> đẩy dữ liệu của nhánh mới lên remote
+B1: git checkout -b feature_hieppt-rebase
+B2: git rebase feature_hieppt
+B3: git push origin feature_hieppt-rebase
+
 C14:
 quay về nhánh cần được gộp 
 -> gộp với nhánh cần cần lấy dữ liệu
