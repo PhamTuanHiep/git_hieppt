@@ -1,0 +1,5 @@
+C14:
+quay về nhánh cần được gộp 
+-> gộp với nhánh cần cần lấy dữ liệu
+b1: git checkout feature_hieppt-merge
+b2: git merge feature_hieppt
